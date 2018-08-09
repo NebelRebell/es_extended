@@ -1,12 +1,11 @@
 Locales['de'] = {
   -- Inventory
-  ['cash'] 							 = 'Kontanter $%s',
+  ['cash'] 							 = 'Handgeld $%s',
   ['inventory'] 					 = 'Inventar',
   ['use'] 							 = 'Benutzen',
   ['give'] 							 = 'Geben',
   ['remove']						 = 'Entfernen',
   ['return']						 = 'Zurück',
-  ['give_to'] 						 = 'Gib an ',
   ['amount'] 						 = 'Betrag',
   ['giveammo'] 						 = 'Munition geben',
   ['amountammo'] 					 = 'Anzahl der Munition',
@@ -61,7 +60,7 @@ Locales['de'] = {
   ['giveitem']						 = 'Gebe Gegenstand',
   ['weapon']						 = 'Waffe',
   ['giveweapon']					 = 'Gebe Waffe',
-  ['disconnect']					 = 'Verbindung vom Server trennen...',
+  ['disconnect']					 = 'Verbindung vom Server trennen',
   ['chat_clear']					 = 'Chat leeren',
   ['chat_clear_all']				 = 'Löschen Sie den Chat für alle',
   
